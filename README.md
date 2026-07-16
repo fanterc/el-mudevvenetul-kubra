@@ -24,7 +24,7 @@ Projeye katkıda bulunmak için Arapça bilmeniz şart değil! Editörlük, Tür
 ## 📊 Çeviri Takip Tablosu (Cilt 1)
 
 | Bölüm / Konu | Çevirmen | Durum | Sayfa Aralığı | Katkı Detayı (PR) | Hakemler |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | **00. İlk Kısım** | *Boşta* | 💤 Beklemede | sf. 1 - 113  | - | - |
 | **01. Kitâbü’l-Vudû’ (Temizlik/Abdest)** | *Aziret El-Hanefi* | ⏳Başlanacak | sf. 113 - 155 | - | - |
 | **02. Kitâbü’s-Salâti’l-Evvel (I. Namaz Bölümü)** | *Boşta* | 💤 Beklemede | sf. 156 - 198 | - | - |
