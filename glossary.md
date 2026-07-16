@@ -3,4 +3,4 @@
 
 | Arapça | Türkçe | Sözlük Anlamı |
 | :--- | :--- | :--- |
-| **طهارة** | *Boşta* | *Boşta* |
+| **طهارة** | *tahâret* | *temizlenmek, arınmak ve pak olmak* |
