@@ -42,6 +42,7 @@ Projeye katkıda bulunmak için Arapça bilmeniz şart değil! Editörlük, Tür
 | **15. Kitâbü’d-Dahâyâ (Kurbanlıklar)** | *Boşta* | 💤 Beklemede | sf. 546 - 553 | - |
 | **16. Kitâbü’l-Akîka (Akika Kurbanı)** | *Boşta* | 💤 Beklemede | sf. 554 - 578 | - |
 | **17. Kitâbü’n-Nüzûri’l-Evvel (Adaklar)** | *Boşta* | 💤 Beklemede | sf. 579 - 617 | - |
+*Not: Diğer ciltler ve konular proje ilerledikçe buraya eklenecektir.*
 ---
 
 ## 💬 İletişim ve Discord
