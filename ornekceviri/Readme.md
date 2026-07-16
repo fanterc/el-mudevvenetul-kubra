@@ -1,0 +1,1 @@
+# Çevirmenler için eklenmiştir
