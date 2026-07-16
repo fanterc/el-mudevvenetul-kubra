@@ -1,7 +1,5 @@
 # Terim Sözlüğü (Kitâbu'l-Vudû')
 
-Bu sözlük, *el-Mudavvenetü'l-Kubrâ*[cite: 1] çeviri projesinde terminolojik birliği sağlamak amacıyla hazırlanmıştır. Transkripsiyonlarda TDV İslâm Ansiklopedisi standartları esas alınmış; sözlük anlamları ile Mâlikî mezhebine dair özel fıkhî hüküm/notlar birbirinden ayrılmıştır.
-
 | Arapça | Okunuş / Transkripsiyon | Kökü | Sözlük / Istılah Anlamı | Mâlikî Fıkhı & Bağlam Notları | Kaynak / Referans |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **طهارة** | *Tahâret* | ط-ه-ر | Temizlenmek, arınmak, pak olmak. | Maddi ve hükmî pisliklerden arınma hâlidir. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
