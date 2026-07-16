@@ -23,26 +23,26 @@ Projeye katkıda bulunmak için Arapça bilmeniz şart değil! Editörlük, Tür
 ---
 ## 📊 Çeviri Takip Tablosu (Cilt 1)
 
-| Bölüm / Konu | Çevirmen | Durum | Sayfa Aralığı | Katkı Detayı (PR) |
+| Bölüm / Konu | Çevirmen | Durum | Sayfa Aralığı | Katkı Detayı (PR) | Hakemler |
 | :--- | :--- | :--- | :--- | :--- |
-| **00. İlk Kısım** | *Boşta* | 💤 Beklemede | sf. 1 - 113  | - |
-| **01. Kitâbü’l-Vudû’ (Temizlik/Abdest)** | *Aziret El-Hanefi* | ⏳Başlanacak | sf. 113 - 155 | - |
-| **02. Kitâbü’s-Salâti’l-Evvel (I. Namaz Bölümü)** | *Boşta* | 💤 Beklemede | sf. 156 - 198 | - |
-| **03. Kitâbü’s-Salâti’s-Sânî (II. Namaz Bölümü)** | *Boşta* | 💤 Beklemede | sf. 199 - 250 | - |
-| **04. Kitâbü’l-Cenâiz (Cenazeler)** | *Boşta* | 💤 Beklemede | sf. 251 - 264 | - |
-| **05. Kitâbü’s-Sıyâm (Oruç)** | *Boşta* | 💤 Beklemede | sf. 265 - 296 | - |
-| **06. Kitâbü’l-İ’tikâf (İtikaf)** | *Boşta* | 💤 Beklemede | sf. 297 - 301 | - |
-| **07. Kitâbü’z-Zekâti’l-Evvel (I. Zekat Bölümü)** | *Boşta* | 💤 Beklemede | sf. 302 - 328 | - |
-| **08. Kitâbü’z-Zekâti’s-Sânî (II. Zekat/Fıtır Bölümü)** | *Boşta* | 💤 Beklemede | sf. 329 - 393 | - |
-| **09. Kitâbü’l-Hacci’l-Evvel (I. Hac Bölümü)** | *Boşta* | 💤 Beklemede | sf. 394 - 438 | - |
-| **10. Kitâbü’l-Hacci’s-Sânî (II. Hac Bölümü)** | *Boşta* | 💤 Beklemede | sf. 439 - 501 | - |
-| **11. Kitâbü’l-Hacci’s-Sâlis (III. Hac Bölümü)** | *Boşta* | 💤 Beklemede | sf. 502 - 526 | - |
-| **12. Kitâbü’l-Cihâd (Cihat)** | *Boşta* | 💤 Beklemede | sf. 527 - 531 | - |
-| **13. Kitâbü’s-Sayd (Avcılık)** | *Boşta* | 💤 Beklemede | sf. 532 - 541 | - |
-| **14. Kitâbü’z-Zebâih (Kurban ve Kesimler)** | *Boşta* | 💤 Beklemede | sf. 542 - 545 | - |
-| **15. Kitâbü’d-Dahâyâ (Kurbanlıklar)** | *Boşta* | 💤 Beklemede | sf. 546 - 553 | - |
-| **16. Kitâbü’l-Akîka (Akika Kurbanı)** | *Boşta* | 💤 Beklemede | sf. 554 - 578 | - |
-| **17. Kitâbü’n-Nüzûri’l-Evvel (Adaklar)** | *Boşta* | 💤 Beklemede | sf. 579 - 617 | - |
+| **00. İlk Kısım** | *Boşta* | 💤 Beklemede | sf. 1 - 113  | - | - |
+| **01. Kitâbü’l-Vudû’ (Temizlik/Abdest)** | *Aziret El-Hanefi* | ⏳Başlanacak | sf. 113 - 155 | - | - |
+| **02. Kitâbü’s-Salâti’l-Evvel (I. Namaz Bölümü)** | *Boşta* | 💤 Beklemede | sf. 156 - 198 | - | - |
+| **03. Kitâbü’s-Salâti’s-Sânî (II. Namaz Bölümü)** | *Boşta* | 💤 Beklemede | sf. 199 - 250 | - | - |
+| **04. Kitâbü’l-Cenâiz (Cenazeler)** | *Boşta* | 💤 Beklemede | sf. 251 - 264 | - | - |
+| **05. Kitâbü’s-Sıyâm (Oruç)** | *Boşta* | 💤 Beklemede | sf. 265 - 296 | - | - |
+| **06. Kitâbü’l-İ’tikâf (İtikaf)** | *Boşta* | 💤 Beklemede | sf. 297 - 301 | - | - |
+| **07. Kitâbü’z-Zekâti’l-Evvel (I. Zekat Bölümü)** | *Boşta* | 💤 Beklemede | sf. 302 - 328 | - | - |
+| **08. Kitâbü’z-Zekâti’s-Sânî (II. Zekat/Fıtır Bölümü)** | *Boşta* | 💤 Beklemede | sf. 329 - 393 | - | - |
+| **09. Kitâbü’l-Hacci’l-Evvel (I. Hac Bölümü)** | *Boşta* | 💤 Beklemede | sf. 394 - 438 | - | - |
+| **10. Kitâbü’l-Hacci’s-Sânî (II. Hac Bölümü)** | *Boşta* | 💤 Beklemede | sf. 439 - 501 | - | - |
+| **11. Kitâbü’l-Hacci’s-Sâlis (III. Hac Bölümü)** | *Boşta* | 💤 Beklemede | sf. 502 - 526 | - | - |
+| **12. Kitâbü’l-Cihâd (Cihat)** | *Boşta* | 💤 Beklemede | sf. 527 - 531 | - | - |
+| **13. Kitâbü’s-Sayd (Avcılık)** | *Boşta* | 💤 Beklemede | sf. 532 - 541 | - | - |
+| **14. Kitâbü’z-Zebâih (Kurban ve Kesimler)** | *Boşta* | 💤 Beklemede | sf. 542 - 545 | - | - |
+| **15. Kitâbü’d-Dahâyâ (Kurbanlıklar)** | *Boşta* | 💤 Beklemede | sf. 546 - 553 | - | - |
+| **16. Kitâbü’l-Akîka (Akika Kurbanı)** | *Boşta* | 💤 Beklemede | sf. 554 - 578 | - | - |
+| **17. Kitâbü’n-Nüzûri’l-Evvel (Adaklar)** | *Boşta* | 💤 Beklemede | sf. 579 - 617 | - | - |
 *Not: Diğer ciltler ve konular proje ilerledikçe buraya eklenecektir.*
 ---
 
