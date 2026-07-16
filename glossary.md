@@ -1,35 +1,37 @@
-# Terim Sözlüğü
+# Terim Sözlüğü (Kitâbu'l-Vudû')
 
-| Arapça | Türkçe | Sözlük Anlamı / Fıkhî Bağlamı |
-| :--- | :--- | :--- |
-| **طهارة** | *Tahâret* | *Temizlenmek, arınmak ve pak olmak; maddi ve hükmî pisliklerden temizlenme hâli.* |
-| **نجاسة** | *Necâset* | *Pislik, kirlilik ve bulaşıklık; ibadete engel olan maddi kirler.* |
-| **إسباغ** | *İsbâğ* | *Uzuvları kuru yer kalmayacak şekilde bol suyla tam, eksiksiz ve güzelce yıkamak.* |
-| **مضمضة** | *Mazmaza* | *Ağza su verip çalkalamak.* |
-| **استنشاق** | *İstinşâk* | *Burna su çekip temizlemek.* |
-| **دلك** | *Delk / Dalk* | *Abdest veya gusülde suyu deriye ulaştırırken veya ulaştırdıktan sonra el ile hafifçe ovmak.* |
-| **استنجاء** | *İstincâ* | *İdrar veya dışkı çıkış yerlerini su ya da taş gibi temizleyicilerle arındırmak.* |
-| **تفريق الوضوء** | *Tefrîku'l-Vudû'* | *Abdest uzuvlarını yıkarken araya uzun zaman koymak, ardışıklığı (muvâlât) ihlal etmek.* |
-| **سؤر** | *Sü'r* | *İnsan veya hayvanların su içtikten sonra kapta bıraktıkları su artığı.* |
-| **سؤر الكلب** | *Sü'rü'l-Kelb* | *Köpeğin yaladığı veya içtiği su/yiyecek artığı.* |
-| **خشاش الأرض** | *Haşâşu'l-Ard* | *Akar kanı olmayan toprak böcekleri, haşereler (akrep, eşek arısı, hamam böceği vb.).* |
-| **الماء المستعمل** | *Mâu'l-Musta'mel* | *Abdest veya gusül gibi hükmî temizliklerde daha önce kullanılmış olan su.* |
-| **الماء الدائم** | *Mâu'd-Dâim* | *Akmayan, durgun, havuz veya sarnıç gibi yerlerde biriken su.* |
-| **طين المطر** | *Tînu'l-Matar* | *Yollarda ve sokaklarda biriken yağmur çamuru (necis bulaşma şüphesi olsa da temiz kabul edilir).* |
-| **مذي** | *Mezî* | *Şehvet hissi uyandığında idrar kanalından sızan şeffaf ve yapışkan sıvı.* |
-| **ودي** | *Vedî* | *İdrardan hemen sonra veya ağır bir yük kaldırıldığında çıkan koyu kıvamlı beyaz akıntı.* |
-| **سلس البول** | *Selesü'l-Bevl* | *İdrar tutamama hastalığı; idrarın irade dışı sürekli akması.* |
-| **الملامسة** | *Mulâmese* | *Şehvet ve lezzet amacıyla karşı cinsin tenine dokunmak.* |
-| **القبلة** | *Kuble* | *Öpmek (lezzet amacıyla yapıldığında abdesti bozan öpüşme).* |
-| **النوم المستثقل** | *en-Nevmü'l-Müstasgıl* | *Dış dünyayla bağı tamamen koparan derin ve ağır uyku (abdesti mutlak olarak bozar).* |
-| **زوال العقل** | *Zevâlü'l-Akl* | *Delilik, baygınlık veya sarhoşluk sebebiyle bilincin yitirilmesi.* |
-| **الشك في الحدث** | *eş-Şekku fi'l-Hades* | *Abdestin bozulup bozulmadığı konusunda kararsız ve tereddütte kalmak.* |
-| **تيمم** | *Teyemmüm* | *Su bulunmadığında temiz toprak veya toprak cinsinden bir şeye el vurarak yüzü ve kolları meshetmek.* |
-| **الجبائر** | *Cebâir* | *Kırık, çıkık veya yaraların üzerine sarılan tıbbi sargılar, alçılar.* |
-| **المسح على الخفين** | *el-Mesihi ale'l-Huffeyn* | *Abdestli giyilmiş mestlerin üzerine ıslak el ile meshetmek.* |
-| **البناء على الصلاة** | *el-Bınâ' ale's-Salât* | *Namaz esnasında oluşan burun kanaması gibi durumlarda namazı tamamen bozmayıp, gidip abdest alarak kalındığı yerden devam etmek.* |
-| **رعاف** | *Ruâf* | *Burun kanaması.* |
-| **الاستظهار** | *el-İstizhâr* | *Adeti aşan kanamalarda, hayızın devam edip etmediğini anlamak için adet günlerine 1 ila 3 gün ekleyerek ihtiyat göstermek.* |
-| **القصة البيضاء** | *el-Kassatü'l-Beydâ* | *Hayız döneminin bittiğini gösteren, rahimden çıkan kireç benzeri beyaz, berrak akıntı.* |
-| **الجفوف** | *el-Cufûf* | *Kontrol bezinin kan, sarılık veya bulantı izi taşımadan tamamen kuru çıkması.* |
-| **الحامل ترى الدم** | *el-Hâmilü Terâ'd-Dem* | *Hamile kadının gebelik esnasında gördüğü ve Mâlikîlikte belirli şartlarla hayız sayılan kan.* |
+Bu sözlük, *el-Mudavvenetü'l-Kubrâ*[cite: 1] çeviri projesinde terminolojik birliği sağlamak amacıyla hazırlanmıştır. Transkripsiyonlarda TDV İslâm Ansiklopedisi standartları esas alınmış; sözlük anlamları ile Mâlikî mezhebine dair özel fıkhî hüküm/notlar birbirinden ayrılmıştır.
+
+| Arapça | Okunuş / Transkripsiyon | Kökü | Sözlük / Istılah Anlamı | Mâlikî Fıkhı & Bağlam Notları | Kaynak / Referans |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **طهارة** | *Tahâret* | ط-ه-ر | Temizlenmek, arınmak, pak olmak. | Maddi ve hükmî pisliklerden arınma hâlidir. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **نجاسة** | *Necâset* | ن-ج-س | Pislik, kirlilik, bulaşıklık. | İbadete engel olan maddi kirleri ifade eder. | *Tâcü'l-Arûs*, *el-Mudavvene*[cite: 1] |
+| **إسباغ** | *İsbâğ* | س-ب-غ | Bir şeyi tam ve eksiksiz yapmak. | Abdest uzuvlarını kuru yer kalmayacak şekilde yıkamaktır. Mâlikîlikte sayı sınırı yoktur, aslolan isbâğdır. | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **مضمضة** | *Mazmaza* | م-ض-م-ض | Suyu ağızda hareket ettirmek. | Ağza su verip çalkalamak. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **استنشاق** | *İstinşâk* | ن-ش-ق | Koklamak, burna su çekmek. | Burnun yumuşağına kadar su çekip temizlemek. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **دلك** | *Mesh / Delk* | د-ل-ك | Ovalamak, sürtmek. | Suyu uzva ulaştırırken veya hemen sonrasında elle hafifçe ovmak. Mâlikîlikte abdestin farzıdır. | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **استنجاء** | *İstincâ* | ن-ج-و | Kesmek, kurtulmak, temizlemek. | İdrar ve dışkı çıkış yerlerini su veya taşla arındırmak. Yellenmeden dolayı istincâ yapılmaz. | *Tâcü'l-Arûs*, *el-Mudavvene*[cite: 1] |
+| **تفريق** | *Tefrîk* | ف-ر-ق | Ayırmak, bölmek. | Abdest uzuvlarının yıkanması arasına, ardışıklığı (muvâlât) bozacak derecede uzun zaman koymak. | Bilerek yapılması abdesti iptal eder, unutarak yapılması affedilir. | *el-Mudavvene*[cite: 1] |
+| **سؤر** | *Sü'r* | س-أ-ر | Artık, geri kalan şey. | İnsan veya hayvanların içtikten sonra kapta bıraktıkları su artığı. | Hayvanın etinin yenip yenmemesine göre hükmü değişir. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **سؤر الكلب** | *Sü'rü'l-Kelb* | ك-ل-ب | Köpek artığı. | Köpeğin yaladığı veya içtiği su/yiyecek artığı. | İmam Mâlik köpeği necis saymadığı için bu suyla kılınan namazı geçerli görür. | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **خشاش الأرض** | *Haşâşü'l-Ard* | خ-ش-ش | Toprak haşeratı. | Akar kanı olmayan küçük böcekler (akrep, arı vb.). | Suya düşüp ölmeleri suyu necis yapmaz. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **الماء المستعمل** | *Mâu'l-Musta'mel* | ع-م-ل | Kullanılmış su. | Hükmî temizlikte (abdest/gusül) daha önce kullanılmış su. | Temizdir ancak başka su varsa tekrar abdestte kullanılması mekruhtur. | *el-Mudavvene*[cite: 1] |
+| **الماء الدائم** | *Mâu'd-Dâim* | د-و-م | Durgun, sürekli su. | Akışı olmayan, havuz veya sarnıç suları. | Cünüp birinin su azsa bu suyun içinde yıkanması mekruh görülmüştür. | *el-Mudavvene*[cite: 1] |
+| **طين المطر** | *Tînu'l-Matar* | ط-ي-ن | Yağmur çamuru. | Sokaklarda biriken yağmur suyu çamuru. | İçine necaset karışma şüphesi olsa bile umumi belva sebebiyle temiz kabul edilir. | *el-Mudavvene*[cite: 1] |
+| **مذي** | *Mezî* | م-ذ-ي | Sızmak, akmak. | Şehvet esnasında idrar kanalından sızan şeffaf, yapışkan sıvı. | Abdesti bozar; yerleşik hastalık (seles) haline gelmişse bozmaz. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **ودي** | *Vedî* | و-د-ي | Akmak. | İdrardan sonra çıkan koyu kıvamlı beyaz akıntı. | Hüküm bakımından idrar gibidir, abdesti bozar. | *Tâcü'l-Arûs*, *el-Mudavvene*[cite: 1] |
+| **سلس البول** | *Selesü'l-Bevl* | س-ل-س | İdrar tutamama. | İdrarın irade dışı sürekli veya sık sık akması hastalığı. | Kişiye meşakkat verecek boyuttaysa abdesti bozmaz (istinkah hali). | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **الملامسة** | *el-Mulâmese* | ل-م-س | Dokunmak, temas etmek. | Karşı cinsin tenine temas etmek. | Mâlikîlikte abdesti bozması için dokunmanın "lezzet ve şehvet amacıyla" yapılması şarttır. | *el-Mudavvene*[cite: 1] |
+| **القبلة** | *el-Kuble* | ق-ب-ل | Öpmek. | Dudaktan veya tenin başka yerinden öpme eylemi. | Şehvet ve lezzet kastıyla ya da lezzet alınarak yapıldığında abdesti bozar. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **النوم المستثقل** | *en-Nevmü'l-Müstaṣḳal* | ث-ق-ل | Ağırlaşmış, derin uyku. | Bilincin ve dış dünya algısının tamamen kaybolduğu uyku. | Duruş şekline bakılmaksızın abdesti mutlak olarak bozar. | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **زوال العقل** | *Zevâlü'l-Akl* | ع-ق-ل | Aklın gitmesi, yitirilmesi. | Delilik, baygınlık veya sarhoşlukla bilincin kaybolması. | Bilinç geri geldiğinde gusül gerekmez, sadece abdest alınması farzdır. | *el-Mudavvene*[cite: 1] |
+| **الشك في الحدث** | *eş-Şekku fi'l-Hades* | ش-ك-ك | Abdestin bozulmasında tereddüt. | Abdestli olduğunu bilip sonradan bozulduğundan şüphe etmek. | Vesvese boyunda değilse, Mâlikîlikte şüphe ile abdest zail olur, yenilenmelidir. | *el-Mudavvene*[cite: 1] |
+| **تيمم** | *Teyemmüm* | ي-م-م | Kastetmek, yönelmek. | Su bulunmadığında temiz toprağa el vurup yüzü ve kolları meshetmek. | Mâlikîlikte her farz namaz için teyemmümün yenilenmesi zorunludur. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **الجبائر** | *el-Cebâir* | ج-ب-ر | Kırık sargıları, alçılar. | Yaraların üzerine sarılan tıbbi sargı ve bezler. | Üzerine meshedilir; meshi unutmak kılınan namazların ebediyen iadesini gerektirir. | *Tâcü'l-Arûs*, *el-Mudavvene*[cite: 1] |
+| **المسح على الخفين** | *el-Mesh 'ale'l-Huffeyn* | م-س-ح | Mestler üzerine meshetmek. | Abdestli giyilmiş deri patiklerin üstüne ve altına ıslak elle meshetmek. | Yolcu veya mukim için süre sınırı yoktur; mest çıkınca abdest bozulmaz, ayak yıkanır. | *el-Mudavvene*[cite: 1] |
+| **البناء على الصلاة** | *el-Bınâ' 'ale's-Salât* | ب-ن-ي | Namazı bina etmek. | Namazda oluşan bir özür nedeniyle namaza kaldığı yerden devam etmek. | Namazda burnu kanayan kişi konuşmadan gidip abdest alarak namazına devam edebilir. | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **رعاف** | *Ruâf* | ر-ع-ف | Burun kanaması. | Burundan kan gelmesi eylemi. | "Bina" ruhsatının ana gerekçesidir; azı ve çoğu Mâlikîlikte namazı mutlak iptal etmez. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **الاستظهار** | *el-İstizhâr* | ظ-ه-ر | Yardım istemek, ihtiyat etmek. | Düzenli adet süresini aşan kadının beklediği ihtiyat süresi. | Normal sürenin üzerine en fazla 3 gün eklenir, toplamı 15 günü geçemez. | *el-Mudavvene*[cite: 1], *Mevâhibü'l-Celîl* |
+| **القصة البيضاء** | *el-Kassatü'l-Beydâ* | ق-ص-ص | Beyaz kireç benzeri akıntı. | Hayız bitiminde rahimden gelen beyaz, berrak sıvı. | Mâlikî kadınlar için hayızın bittiğinin ve temizliğin kesin kanıtıdır. | *Lisânü'l-Arab*, *el-Mudavvene*[cite: 1] |
+| **الجفوف** | *el-Cufûf* | ج-ف-ف | Kuruluk. | Rahim alanına yerleştirilen bezin tamamen temiz ve kuru çıkması. | Akıntı görmeyen kadınlarda hayızın bittiğini gösteren ikinci temizlik alametidir. | *Tâcü'l-Arûs*, *el-Mudavvene*[cite: 1] |
+| **الحامل ترى الدم** | *el-Hâmilü Terâ'd-Dem* | ح-م-ل | Hamile kadının kan görmesi. | Gebelik döneminde rahimden kan gelmesi. | Mâlikî mezhebinde hamile kadının gördüğü kan da belirli süre sınırlarıyla hayız sayılır. | *el-Mudavvene*[cite: 1] |
